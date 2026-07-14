@@ -19,7 +19,17 @@
           "index",
           "quickstart"
         ]
-      }
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      "skoola-system",
+      "skoola-edu",
+      "skoola-parent"
     ],
     "global": {
       "anchors": [
