@@ -53,6 +53,22 @@
       {
         "group": "Untitled Group",
         "pages": []
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      "skoola-system",
+      "skoola-edu",
+      "skoola-parent",
+      {
+        "group": "Skoola System",
+        "pages": [
+          "untitled-page"
+        ]
       }
     ],
     "global": {
