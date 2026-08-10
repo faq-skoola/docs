@@ -16,14 +16,13 @@
       {
         "group": "Getting Started",
         "pages": [
-          "index",
-          "quickstart"
-        ]
-      },
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
+          {
+            "group": "FAQ Skoolacloud.id",
+            "root": "index",
+            "pages": [
+              "sub-menu-faq-1"
+            ]
+          },
           "quickstart"
         ]
       },
@@ -55,7 +54,13 @@
       {
         "group": "Getting Started",
         "pages": [
-          "index",
+          {
+            "group": "FAQ Skoolacloud.id",
+            "root": "index",
+            "pages": [
+              "sub-menu-faq-1"
+            ]
+          },
           "quickstart"
         ]
       },
