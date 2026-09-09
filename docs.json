@@ -28,7 +28,9 @@
           {
             "group": "FAQ Skoolacloud.id",
             "root": "index",
-            "pages": []
+            "pages": [
+              "untitled-page-18"
+            ]
           }
         ]
       },
@@ -84,6 +86,7 @@
           {
             "group": "Orang Tua dan Pengawasan",
             "pages": [
+              "untitled-page-2",
               "untitled-page-30",
               "untitled-page-31",
               "untitled-page-32"
@@ -119,9 +122,7 @@
       },
       {
         "group": "Skoola Edu",
-        "pages": [
-          "untitled-page-2"
-        ]
+        "pages": []
       }
     ]
   },
