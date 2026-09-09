@@ -12,7 +12,16 @@
     "dark": "/images/favicon.ico"
   },
   "navigation": {
-    "pages": [
+    "global": {
+      "anchors": [
+        {
+          "anchor": "skoolacloud.id",
+          "icon": "external-link",
+          "href": "https://skoolacloud.id"
+        }
+      ]
+    },
+    "groups": [
       {
         "group": "Getting Started",
         "pages": [
@@ -113,44 +122,8 @@
         "pages": [
           "untitled-page-2"
         ]
-      },
-      {
-        "group": "Getting Started",
-        "pages": [
-          {
-            "group": "FAQ Skoolacloud.id",
-            "root": "index",
-            "pages": [
-              "sub-menu-faq-1"
-            ]
-          },
-          "quickstart"
-        ]
-      },
-      "skoola-system",
-      "skoola-edu",
-      "skoola-parent",
-      {
-        "group": "Skoola System",
-        "pages": [
-          {
-            "group": "PPDB",
-            "pages": [
-              "untitled-page"
-            ]
-          }
-        ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "skoolacloud.id",
-          "icon": "external-link",
-          "href": "https://skoolacloud.id"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/images/logo-light.png",
